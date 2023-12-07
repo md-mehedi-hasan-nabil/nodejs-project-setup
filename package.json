@@ -2,7 +2,7 @@
   "name": "nodejs-api-project-setup",
   "version": "1.0.0",
   "description": "nodejs-api-project-setup",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
     "start": "node ./dist/server.js",
